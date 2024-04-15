@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ingresar al login" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-18T21:55:07" hostname="BELEN1893" time="46.55">
+  <properties/>
+  <testcase name="Ingreso a la nueva SVP con usuario valido de cliente activo" classname="Ingresar al login" time="46.55"/>
+  <system-out><![CDATA[Valor obtenido de Label HomePage: Swag Labs
+]]></system-out>
+  <system-err><![CDATA[mar 18, 2024 3:55:08 P. M. org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
+INFO: Using OpenTelemetry for tracing
+]]></system-err>
+</testsuite>
